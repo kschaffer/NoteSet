@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+NoteSet		KEYWORD1
+NoteInfo	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+init					KEYWORD2
+note_on					KEYWORD2
+note_off				KEYWORD2
+most_recent_note			KEYWORD2
+least_recent_note			KEYWORD2
+played_note				KEYWORD2
+sorted_note				KEYWORD2
+note	   				KEYWORD2
+no_note			   		KEYWORD2
+note_by_priority			KEYWORD2
+get_next_note			        KEYWORD2
+get_last			        KEYWORD2
+get_size				KEYWORD2
+max_size				KEYWORD2
